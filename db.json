@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "type": "digital",
+      "title": "مبدل USB OTG به USB-C مدل PLUS",
+      "desc": "درگاه TYPE-C یکی از جدیدترین درگاه‌های USB است که در حال جایگزین شدن با درگاه‌های MicroUSB بر روی موبایل و تبلت‌ها است. یکی از محصولاتی که خیلی از ما با آن آشنایی داریم کابل‌ها و تبدیل‌های OTG هستند که با استفاده از آن‌ها می‌توانید انواع فلش مموری و ماوس و کیبورد را به موبایل یا تبلت خود متصل کنید که در درگاه تایپ سی این ویژگی‌ها بسیار بیشتر شده است.",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4351107.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "price": "16900"
+    },
+    {
+       "id": 2,
+       "type": "digital",
+       "title": "ساعت هوشمند اپل مدل Series 8 Aluminum 45mm",
+       "desc": "ساعت هوشمند اپل مدل Series 8 Aluminum 45mm ابعادی 45x38x107 میلی‌متر دارد. این ساعت برای امور روزمره، رسمی و ورزشی مناسب خواهد بود. بنابراین شما با هر سلیقه و هر شغلی که داشته باشید می‌توانید از این ساعت استفاده کنید.همچنین این ساعت 38.8 گرم وزن دارد. جنس بدنه این ساعت آلومینیوم بوده و شیشه آن Ion-X Glass خواهد بود. این ساعت دارای صفحه نمایش لمسی، قابلیت مکالمه مستقیم، کنترل سطح اکسیژن خون و کنترل موسیقی (Music Player)است. از طرفی حسگرهای این ساعت شامل ارتفاع‌سنج، ژیروسکوپ، سنجش اکسیژن خون (SPO2)، سنجش دمای بدن، شمارشگر ضربان قلب، فشارسنج (Barometer) و قطب‌نما (Compass) می‌شود. منبع نغذیه سری 8 اپل واچ باتری بوده و نوع باتری آن لیتیوم یونی است. عمر باتری این ساعت 18 ساعت بوده و خبر خوب اینکه عمر باتری در حالت کم مصرف تمام روز و حتی تا 36 ساعت است. این ساعت دارای گواهی IP6Xبوده، تا عمق 50 متر ضد آب است.",
+       "image": "https://dkstatics-public.digikala.com/digikala-products/be65552a8c3e709a7d49d2f1eb35b3882b1fdf18_1662792408.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+       "price": "19320000"
+    },
+    {
+        "id": 3,
+        "type": "clothing",
+        "title": "تی‌شرت مردانه ولوت ریپابلیک کد 23",
+        "desc": "تیشرت مردانه نخی یقه گرد با طرح ساده",
+        "image": "https://dkstatics-public.digikala.com/digikala-products/117603690.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+        "price": 221000
+    },
+    {
+      "id": 4,
+      "type": "clothing",
+      "title": "هودی مردانه ولوت ریپابلیک کد 08",
+      "desc": "شستشو با آب ۳۰ درجه با دست یا با ماشین لباسشوئی از سفید کننده استفاده نشود در حالت عادی و بدون کشش خشک شود",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/117599187.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "price": 443000
+    }
+  ],
+  "profile": {
+    "name": "Mohammad Hosein",
+    "lastName": "Zamani",
+    "age": 21,
+    "Email": "mohammadhoseynzamany@gmail.com"
+  },
+  "cart": [
+    {
+        "id":1 
+    },
+    {
+        "id": 3
+    }
+  ]
+}
